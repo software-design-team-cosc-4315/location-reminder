@@ -11,28 +11,27 @@
 [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Ernaldis/template-template">
+  <a href="https://github.com/software-design-team-cosc-4315/location-reminder">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Location Specific Reminders</h3>
 
   <p align="center">
-    project_description
+    We have all experienced the irritation of remembering we need to do something, but you forget to do it when you are in the right location to do it. This android application allows you to set a reminder to do something the next time you are in the right place.
     <br />
-    <a href="https://github.com/Ernaldis/template-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/software-design-team-cosc-4315/location-reminder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ernaldis/template-template">View Demo</a>
+    <a href="https://github.com/software-design-team-cosc-4315/location-reminder">View Demo</a>
     ·
-    <a href="https://github.com/Ernaldis/template-template/issues">Report Bug</a>
+    <a href="https://github.com/software-design-team-cosc-4315/location-reminder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ernaldis/template-template/issues">Request Feature</a>
+    <a href="https://github.com/software-design-team-cosc-4315/location-reminder/issues">Request Feature</a>
   </p>
 </p>
 
@@ -95,7 +94,7 @@ install them.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Ernaldis/template-template.git
+   git clone https://github.com/software-design-team-cosc-4315/location-reminder.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -112,7 +111,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/Ernaldis/template-template/issues)
+See the [open issues](https://github.com/software-design-team-cosc-4315/location-reminder/issues)
 for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
@@ -143,7 +142,7 @@ information.
 Your Name - ernaldis@protonmail.com
 
 Project Link:
-[https://github.com/Ernaldis/template-template](https://github.com/Ernaldis/template-template)
+[https://github.com/software-design-team-cosc-4315/location-reminder](https://github.com/software-design-team-cosc-4315/location-reminder)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -157,22 +156,21 @@ Project Link:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]:
-  https://img.shields.io/github/contributors/ernaldis/template-template.svg?style=for-the-badge
+  https://img.shields.io/github/contributors/software-design-team-cosc-4315/location-reminder.svg?style=for-the-badge
 [contributors-url]:
-  https://github.com/ernaldis/template-template/graphs/contributors
+  https://github.com/software-design-team-cosc-4315/location-reminder/graphs/contributors
 [forks-shield]:
-  https://img.shields.io/github/forks/ernaldis/template-template.svg?style=for-the-badge
-[forks-url]: https://github.com/ernaldis/template-template/network/members
+  https://img.shields.io/github/forks/software-design-team-cosc-4315/location-reminder.svg?style=for-the-badge
+[forks-url]: https://github.com/software-design-team-cosc-4315/location-reminder/network/members
 [stars-shield]:
-  https://img.shields.io/github/stars/ernaldis/template-template.svg?style=for-the-badge
-[stars-url]: https://github.com/ernaldis/template-template/stargazers
+  https://img.shields.io/github/stars/software-design-team-cosc-4315/location-reminder.svg?style=for-the-badge
+[stars-url]: https://github.com/software-design-team-cosc-4315/location-reminder/stargazers
 [issues-shield]:
-  https://img.shields.io/github/issues/ernaldis/template-template.svg?style=for-the-badge
-[issues-url]: https://github.com/ernaldis/template-template/issues
+  https://img.shields.io/github/issues/software-design-team-cosc-4315/location-reminder.svg?style=for-the-badge
+[issues-url]: https://github.com/software-design-team-cosc-4315/location-reminder/issues
 [license-shield]:
-  https://img.shields.io/github/license/ernaldis/template-template.svg?style=for-the-badge
+  https://img.shields.io/github/license/software-design-team-cosc-4315/location-reminder.svg?style=for-the-badge
 [license-url]:
-  https://github.com/ernaldis/template-template/blob/master/LICENSE.txt
+  https://github.com/software-design-team-cosc-4315/location-reminder/blob/master/LICENSE.txt
 [linkedin-shield]:
   https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/timothy-c-70b6081a0/
